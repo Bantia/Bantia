@@ -8,7 +8,7 @@ _Quantum Engineering concentration | Applied Research & Quantum Software Develop
 ## 🧑‍🚀 About Me
 
 I'm passionate about quantum technologies, software engineering, and scientific innovation. With hands-on experience in quantum programming and applied research, I thrive in multidisciplinary environments and love tackling new challenges. 
-I enjoy building tools and solutions—both in code and hardware—that push the boundaries of what’s possible.
+I enjoy building tools and solutions both in code and hardware that push the boundaries of what’s possible.
 
 ---
 
